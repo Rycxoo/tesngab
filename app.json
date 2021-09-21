@@ -1,0 +1,6 @@
+name": "babybot",
+  "version": "1.0.0",
+  "description": "script bot whatsapp termux",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
